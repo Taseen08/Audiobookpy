@@ -1,5 +1,5 @@
 import pyttsx3
 speaker = pyttsx3.init()
-text = "Waterloo is gonna be fun yet challenging"
+text = "Hi"
 speaker.say(text)
 speaker.runAndWait()
